@@ -36,6 +36,11 @@ Hello World!
 7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069
 ```
 
+# GitHub Actions
+
+mainブランチにpushし、
+タグとして 'v1.0.0' みたいのをつけたときに実行される。
+
 
 # 環境
 
