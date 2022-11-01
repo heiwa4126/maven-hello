@@ -28,7 +28,16 @@ mvn clean prepare-package assembly:single
 ```
 
 
-# バージョン
+# 実行出力
+
+```
+$ java -jar target/hello-1.0-SNAPSHOT-jar-with-dependencies.jar
+Hello World!
+7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069
+```
+
+
+# 環境
 
 テストした環境のJDKとmavenのバージョンは以下の通り。
 
